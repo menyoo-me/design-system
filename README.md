@@ -1,1 +1,1 @@
-# Menyoo Design System
+# Menyoo UI Styleguide
